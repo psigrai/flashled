@@ -1,0 +1,1 @@
+This is a very simple Python programme which I did not create from a book of pi projects.  It uses the RPio Libarary to so some basic GPIO to make an LED flash.  Needs a breadboard and components etc. Dec 2017
